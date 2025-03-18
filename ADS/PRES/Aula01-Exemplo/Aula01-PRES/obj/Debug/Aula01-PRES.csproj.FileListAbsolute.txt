@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Marcos\Aula01-PRES\Aula01-PRES\bin\Debug\Aula01-PRES.exe.config
+C:\Users\aluno\Desktop\Marcos\Aula01-PRES\Aula01-PRES\bin\Debug\Aula01-PRES.exe
+C:\Users\aluno\Desktop\Marcos\Aula01-PRES\Aula01-PRES\bin\Debug\Aula01-PRES.pdb
+C:\Users\aluno\Desktop\Marcos\Aula01-PRES\Aula01-PRES\obj\Debug\Aula01-PRES.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Marcos\Aula01-PRES\Aula01-PRES\obj\Debug\Aula01-PRES.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Marcos\Aula01-PRES\Aula01-PRES\obj\Debug\Aula01-PRES.exe
+C:\Users\aluno\Desktop\Marcos\Aula01-PRES\Aula01-PRES\obj\Debug\Aula01-PRES.pdb

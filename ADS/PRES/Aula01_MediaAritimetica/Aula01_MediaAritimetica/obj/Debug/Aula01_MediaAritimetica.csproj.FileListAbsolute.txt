@@ -1,0 +1,7 @@
+E:\IFSP\ADS\PRES\Aula01_MediaAritimetica\Aula01_MediaAritimetica\bin\Debug\Aula01_MediaAritimetica.exe.config
+E:\IFSP\ADS\PRES\Aula01_MediaAritimetica\Aula01_MediaAritimetica\bin\Debug\Aula01_MediaAritimetica.exe
+E:\IFSP\ADS\PRES\Aula01_MediaAritimetica\Aula01_MediaAritimetica\bin\Debug\Aula01_MediaAritimetica.pdb
+E:\IFSP\ADS\PRES\Aula01_MediaAritimetica\Aula01_MediaAritimetica\obj\Debug\Aula01_MediaAritimetica.csproj.AssemblyReference.cache
+E:\IFSP\ADS\PRES\Aula01_MediaAritimetica\Aula01_MediaAritimetica\obj\Debug\Aula01_MediaAritimetica.csproj.CoreCompileInputs.cache
+E:\IFSP\ADS\PRES\Aula01_MediaAritimetica\Aula01_MediaAritimetica\obj\Debug\Aula01_MediaAritimetica.exe
+E:\IFSP\ADS\PRES\Aula01_MediaAritimetica\Aula01_MediaAritimetica\obj\Debug\Aula01_MediaAritimetica.pdb
