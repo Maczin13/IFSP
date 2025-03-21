@@ -1,0 +1,14 @@
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\bin\Debug\net9.0\ProgramaUm.exe
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\bin\Debug\net9.0\ProgramaUm.deps.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\bin\Debug\net9.0\ProgramaUm.runtimeconfig.json
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\bin\Debug\net9.0\ProgramaUm.dll
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\bin\Debug\net9.0\ProgramaUm.pdb
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ProgramaUm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ProgramaUm.AssemblyInfoInputs.cache
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ProgramaUm.AssemblyInfo.cs
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ProgramaUm.csproj.CoreCompileInputs.cache
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ProgramaUm.dll
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\refint\ProgramaUm.dll
+c:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ProgramaUm.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ProgramaUm.genruntimeconfig.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\ProgramaUm\obj\Debug\net9.0\ref\ProgramaUm.dll
