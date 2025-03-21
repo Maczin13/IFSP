@@ -1,0 +1,14 @@
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\bin\Debug\net9.0\Estruturas de Dados.exe
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\bin\Debug\net9.0\Estruturas de Dados.deps.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\bin\Debug\net9.0\Estruturas de Dados.runtimeconfig.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\bin\Debug\net9.0\Estruturas de Dados.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\bin\Debug\net9.0\Estruturas de Dados.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\Estruturas de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\Estruturas de Dados.AssemblyInfoInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\Estruturas de Dados.AssemblyInfo.cs
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\Estruturas de Dados.csproj.CoreCompileInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\Estruturas de Dados.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\refint\Estruturas de Dados.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\Estruturas de Dados.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\Estruturas de Dados.genruntimeconfig.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de Dados\obj\Debug\net9.0\ref\Estruturas de Dados.dll

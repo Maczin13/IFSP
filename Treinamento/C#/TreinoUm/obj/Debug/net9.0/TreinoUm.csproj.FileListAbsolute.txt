@@ -1,0 +1,14 @@
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\TreinoUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\TreinoUm.AssemblyInfoInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\TreinoUm.AssemblyInfo.cs
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\TreinoUm.csproj.CoreCompileInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\bin\Debug\net9.0\TreinoUm.exe
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\bin\Debug\net9.0\TreinoUm.deps.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\bin\Debug\net9.0\TreinoUm.runtimeconfig.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\bin\Debug\net9.0\TreinoUm.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\bin\Debug\net9.0\TreinoUm.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\TreinoUm.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\refint\TreinoUm.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\TreinoUm.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\TreinoUm.genruntimeconfig.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\TreinoUm\obj\Debug\net9.0\ref\TreinoUm.dll

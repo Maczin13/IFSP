@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Variáveis e tipos de dados/1.0.0": {
+        "runtime": {
+          "Variáveis e tipos de dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Variáveis e tipos de dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

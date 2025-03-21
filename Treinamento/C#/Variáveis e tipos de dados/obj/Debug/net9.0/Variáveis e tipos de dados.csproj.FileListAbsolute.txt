@@ -1,0 +1,14 @@
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\Variáveis e tipos de dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\Variáveis e tipos de dados.AssemblyInfoInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\Variáveis e tipos de dados.AssemblyInfo.cs
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\Variáveis e tipos de dados.csproj.CoreCompileInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\bin\Debug\net9.0\Variáveis e tipos de dados.exe
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\bin\Debug\net9.0\Variáveis e tipos de dados.deps.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\bin\Debug\net9.0\Variáveis e tipos de dados.runtimeconfig.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\bin\Debug\net9.0\Variáveis e tipos de dados.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\bin\Debug\net9.0\Variáveis e tipos de dados.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\Variáveis e tipos de dados.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\refint\Variáveis e tipos de dados.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\Variáveis e tipos de dados.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\Variáveis e tipos de dados.genruntimeconfig.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Variáveis e tipos de dados\obj\Debug\net9.0\ref\Variáveis e tipos de dados.dll

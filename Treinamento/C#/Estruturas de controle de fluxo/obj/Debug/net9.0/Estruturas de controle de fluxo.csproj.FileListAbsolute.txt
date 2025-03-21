@@ -1,0 +1,14 @@
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\Estruturas de controle de fluxo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\Estruturas de controle de fluxo.AssemblyInfoInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\Estruturas de controle de fluxo.AssemblyInfo.cs
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\Estruturas de controle de fluxo.csproj.CoreCompileInputs.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\bin\Debug\net9.0\Estruturas de controle de fluxo.exe
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\bin\Debug\net9.0\Estruturas de controle de fluxo.deps.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\bin\Debug\net9.0\Estruturas de controle de fluxo.runtimeconfig.json
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\bin\Debug\net9.0\Estruturas de controle de fluxo.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\bin\Debug\net9.0\Estruturas de controle de fluxo.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\Estruturas de controle de fluxo.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\refint\Estruturas de controle de fluxo.dll
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\Estruturas de controle de fluxo.pdb
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\Estruturas de controle de fluxo.genruntimeconfig.cache
+C:\Users\Monitor\Documents\01 - Marcos\Programas\C#\Estruturas de controle de fluxo\obj\Debug\net9.0\ref\Estruturas de controle de fluxo.dll
