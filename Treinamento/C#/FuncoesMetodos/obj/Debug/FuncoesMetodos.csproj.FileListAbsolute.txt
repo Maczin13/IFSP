@@ -1,0 +1,8 @@
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\bin\Debug\FuncoesMetodos.exe.config
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\bin\Debug\FuncoesMetodos.exe
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\bin\Debug\FuncoesMetodos.pdb
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\obj\Debug\FuncoesMetodos.csproj.AssemblyReference.cache
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\obj\Debug\FuncoesMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\obj\Debug\FuncoesMetodos.csproj.CoreCompileInputs.cache
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\obj\Debug\FuncoesMetodos.exe
+C:\Users\macga\Desktop\Funções e Métodos\FuncoesMetodos\obj\Debug\FuncoesMetodos.pdb
