@@ -1,0 +1,8 @@
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\bin\Debug\COLETTO.exe.config
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\bin\Debug\COLETTO.exe
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\bin\Debug\COLETTO.pdb
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\obj\Debug\COLETTO.csproj.AssemblyReference.cache
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\obj\Debug\COLETTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\obj\Debug\COLETTO.csproj.CoreCompileInputs.cache
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\obj\Debug\COLETTO.exe
+C:\Users\macga\Desktop\Funções e Métodos\ex\COLETTO\obj\Debug\COLETTO.pdb
