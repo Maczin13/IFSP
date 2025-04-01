@@ -1,0 +1,7 @@
+C:\Users\macga\Desktop\Colleto\Aula 03\ExerciciosFixação\bin\Debug\ExerciciosFixação.exe.config
+C:\Users\macga\Desktop\Colleto\Aula 03\ExerciciosFixação\bin\Debug\ExerciciosFixação.exe
+C:\Users\macga\Desktop\Colleto\Aula 03\ExerciciosFixação\bin\Debug\ExerciciosFixação.pdb
+C:\Users\macga\Desktop\Colleto\Aula 03\ExerciciosFixação\obj\Debug\ExerciciosFixação.csproj.AssemblyReference.cache
+C:\Users\macga\Desktop\Colleto\Aula 03\ExerciciosFixação\obj\Debug\ExerciciosFixação.csproj.CoreCompileInputs.cache
+C:\Users\macga\Desktop\Colleto\Aula 03\ExerciciosFixação\obj\Debug\ExerciciosFixação.exe
+C:\Users\macga\Desktop\Colleto\Aula 03\ExerciciosFixação\obj\Debug\ExerciciosFixação.pdb
