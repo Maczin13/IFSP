@@ -1,0 +1,7 @@
+C:\Users\macga\Desktop\Colleto\Aula 06\Exercícios estruturas de repetição\bin\Debug\Exercícios estruturas de repetição.exe.config
+C:\Users\macga\Desktop\Colleto\Aula 06\Exercícios estruturas de repetição\bin\Debug\Exercícios estruturas de repetição.exe
+C:\Users\macga\Desktop\Colleto\Aula 06\Exercícios estruturas de repetição\bin\Debug\Exercícios estruturas de repetição.pdb
+C:\Users\macga\Desktop\Colleto\Aula 06\Exercícios estruturas de repetição\obj\Debug\Exercícios estruturas de repetição.csproj.AssemblyReference.cache
+C:\Users\macga\Desktop\Colleto\Aula 06\Exercícios estruturas de repetição\obj\Debug\Exercícios estruturas de repetição.csproj.CoreCompileInputs.cache
+C:\Users\macga\Desktop\Colleto\Aula 06\Exercícios estruturas de repetição\obj\Debug\Exercícios estruturas de repetição.exe
+C:\Users\macga\Desktop\Colleto\Aula 06\Exercícios estruturas de repetição\obj\Debug\Exercícios estruturas de repetição.pdb
