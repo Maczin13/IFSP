@@ -1,0 +1,7 @@
+C:\Users\macga\Desktop\Colleto\Aula 09\Aula 09\bin\Debug\Aula 09.exe.config
+C:\Users\macga\Desktop\Colleto\Aula 09\Aula 09\bin\Debug\Aula 09.exe
+C:\Users\macga\Desktop\Colleto\Aula 09\Aula 09\bin\Debug\Aula 09.pdb
+C:\Users\macga\Desktop\Colleto\Aula 09\Aula 09\obj\Debug\Aula 09.csproj.AssemblyReference.cache
+C:\Users\macga\Desktop\Colleto\Aula 09\Aula 09\obj\Debug\Aula 09.csproj.CoreCompileInputs.cache
+C:\Users\macga\Desktop\Colleto\Aula 09\Aula 09\obj\Debug\Aula 09.exe
+C:\Users\macga\Desktop\Colleto\Aula 09\Aula 09\obj\Debug\Aula 09.pdb
