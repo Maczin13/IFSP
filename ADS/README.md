@@ -3,11 +3,6 @@
 Portfólio organizado por competências do curso de ADS. O repositório reúne implementações mínimas, documentação técnica, modelos de análise, testes, decisões de projeto, roteiros de demonstração e perguntas de defesa.
 
 ## Navegação
-
-- [Matriz de competências](evidence-matrix.md)
-- [Como executar](docs/EXECUCAO.md)
-- [Como apresentar](docs/ROTEIRO-DE-DEFESA.md)
-- [Trilhas técnicas](docs/TRILHAS.md)
 - [Pesquisa acadêmica](02-inteligencia-artificial/research-notes.md)
 
 ## Princípios do portfólio
