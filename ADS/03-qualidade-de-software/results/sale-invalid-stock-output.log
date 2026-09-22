@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/home/ubuntu/portfolio-resab-ads/03-qualidade-de-software/processador_vendas.py", line 86, in <module>
+    if __name__=='__main__': raise SystemExit(main())
+                                              ^^^^^^
+  File "/home/ubuntu/portfolio-resab-ads/03-qualidade-de-software/processador_vendas.py", line 84, in main
+    payload=json.loads(open(a.input,encoding='utf8').read()); result=process_sale(payload['items'],payload.get('coupon'))
+                                                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/portfolio-resab-ads/03-qualidade-de-software/processador_vendas.py", line 72, in process_sale
+    items=[make_item(x) for x in raw_items]
+           ^^^^^^^^^^^^
+  File "/home/ubuntu/portfolio-resab-ads/03-qualidade-de-software/processador_vendas.py", line 52, in make_item
+    if raw['quantity']>raw['stock']: raise StockError(f'estoque insuficiente para {raw["sku"]}')
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+StockError: estoque insuficiente para GPU-01

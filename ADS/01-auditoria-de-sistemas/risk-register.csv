@@ -1,0 +1,6 @@
+id,descricao,probabilidade,impacto,nivel,mitigacao,indicador
+R01,tentativas sucessivas de login e acesso fora de horario,alta,alto,critico,limitar tentativas MFA e alertar SOC,tentativas bloqueadas por semana
+R02,operacao sensivel de exclusao sem dupla aprovacao,media,alto,alto,segregacao de funcoes e workflow de aprovacao,operacoes com aprovacao
+R03,alteracao do arquivo de log,baixa,alto,alto,hash SHA256 e armazenamento somente leitura,divergencia de hash
+R04,indisponibilidade do servico de autenticacao,media,medio,medio,backup teste de restauracao e monitoramento,MTTR
+R05,credencial privilegiada sem revisao periodica,media,alto,alto,revisao trimestral e menor privilegio,contas revisadas

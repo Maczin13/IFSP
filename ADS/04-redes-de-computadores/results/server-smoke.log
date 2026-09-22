@@ -1,0 +1,9 @@
+listening 33309
+HTTP/1.1 200 OK
+Content-Length: 3
+Content-Type: text/plain; charset=utf-8
+Connection: close
+
+ok
+
+metrics {'accepted': 1, 'completed': 1, 'errors': 0, 'bytes_in': 42, 'bytes_out': 101}

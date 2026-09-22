@@ -1,0 +1,9 @@
+flowchart LR
+B[Browser/form] -->|POST /tasks| C[Flask Controller]
+C --> V[Validation]
+V --> R[SQLite Repository]
+R -->|303 See Other| B
+B -->|GET /| C
+C --> T[Jinja Template]
+T --> B
+C --> API[JSON API]

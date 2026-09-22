@@ -1,0 +1,12 @@
+sequenceDiagram
+ participant C as Cliente/curl
+ participant K as Kernel TCP
+ participant S as tcp_web_server.py
+ C->>K: connect(host, port)
+ K-->>C: SYN/SYN-ACK/ACK (three-way handshake)
+ K->>S: accept() entrega socket estabelecido
+ C->>S: bytes HTTP GET /healthz CRLF
+ S->>S: parse_request + roteamento
+ S-->>C: HTTP/1.1 200, headers, body
+ S->>K: close()/FIN
+ K-->>C: ACK/FIN e encerramento TCP

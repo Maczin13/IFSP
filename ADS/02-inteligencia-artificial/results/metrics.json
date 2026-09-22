@@ -1,0 +1,68 @@
+{
+  "seed": 42,
+  "train_size": 12,
+  "test_size": 4,
+  "labels": [
+    "sem_sinal",
+    "sinal"
+  ],
+  "classification_report": {
+    "sem_sinal": {
+      "precision": 0.6666666666666666,
+      "recall": 1.0,
+      "f1-score": 0.8,
+      "support": 2.0
+    },
+    "sinal": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 2.0
+    },
+    "accuracy": 0.75,
+    "macro avg": {
+      "precision": 0.8333333333333333,
+      "recall": 0.75,
+      "f1-score": 0.7333333333333334,
+      "support": 4.0
+    },
+    "weighted avg": {
+      "precision": 0.8333333333333333,
+      "recall": 0.75,
+      "f1-score": 0.7333333333333334,
+      "support": 4.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      2,
+      0
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "test_examples": [
+    {
+      "text": "o programa passou nos testes",
+      "expected": "sem_sinal",
+      "predicted": "sem_sinal"
+    },
+    {
+      "text": "tenho crises de panico",
+      "expected": "sinal",
+      "predicted": "sem_sinal"
+    },
+    {
+      "text": "terminei o exercício de python",
+      "expected": "sem_sinal",
+      "predicted": "sem_sinal"
+    },
+    {
+      "text": "não consigo dormir por causa da ansiedade",
+      "expected": "sinal",
+      "predicted": "sinal"
+    }
+  ]
+}

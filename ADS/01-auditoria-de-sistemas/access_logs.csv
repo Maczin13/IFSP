@@ -1,0 +1,8 @@
+event_id,timestamp,user,ip,role,event,result,approval_id
+E01,2026-09-20T08:12:04+00:00,ana,10.0.0.15,analyst,login,success,
+E02,2026-09-20T08:13:31+00:00,ana,10.0.0.15,analyst,read_report,success,
+E03,2026-09-20T23:48:12+00:00,guest,185.11.4.2,guest,login,failed,
+E04,2026-09-20T23:49:05+00:00,guest,185.11.4.2,guest,login,failed,
+E05,2026-09-20T23:50:01+00:00,guest,185.11.4.2,guest,login,failed,
+E06,2026-09-20T23:51:10+00:00,guest,185.11.4.2,guest,login,success,
+E07,2026-09-21T10:02:44+00:00,admin,10.0.0.2,admin,delete_user,success,

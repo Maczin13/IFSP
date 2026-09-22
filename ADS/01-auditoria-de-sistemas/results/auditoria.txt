@@ -1,0 +1,10 @@
+AUDITORIA DE ACESSOS
+registros analisados: 7
+sha256: 5322ee9af0cb18ce35894554eba8d9ec2dd471732594482858851a273290aa1e
+achados: 6
+{"severity": "medium", "timestamp": "2026-09-20T23:48:12", "type": "out_of_hours", "user": "guest"}
+{"severity": "medium", "timestamp": "2026-09-20T23:49:05", "type": "out_of_hours", "user": "guest"}
+{"severity": "medium", "timestamp": "2026-09-20T23:50:01", "type": "out_of_hours", "user": "guest"}
+{"severity": "medium", "timestamp": "2026-09-20T23:51:10", "type": "out_of_hours", "user": "guest"}
+{"severity": "high", "timestamp": "2026-09-21T10:02:44", "type": "sensitive_operation", "user": "admin"}
+{"attempts": 3, "severity": "high", "type": "brute_force_pattern", "user": "guest"}

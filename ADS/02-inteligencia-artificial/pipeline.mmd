@@ -1,0 +1,8 @@
+flowchart LR
+A[Fixtures sintéticas rotuladas] --> B[Divisão estratificada treino/teste]
+B --> C[CountVectorizer unigramas+bigrams]
+C --> D[MultinomialNB alpha=1.0]
+D --> E[Matriz de confusão e precision/recall/F1]
+F[Grade com obstáculos] --> G[A* + heurística Manhattan]
+G --> H[Caminho ótimo e nós expandidos]
+E --> I[Revisão humana; não diagnóstico]
