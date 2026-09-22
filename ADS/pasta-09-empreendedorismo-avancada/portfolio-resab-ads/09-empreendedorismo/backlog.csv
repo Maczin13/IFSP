@@ -1,0 +1,6 @@
+id,title,reach,impact,confidence,effort,cost_hours,expected_value,status
+MVP-01,Agenda adaptativa de estudos,120,3,0.8,5,6,420,testing
+MVP-02,Lembrete de revisão espaçada,80,2,0.7,3,4,180,validated
+MVP-03,Dashboard de progresso,60,2,0.5,8,10,240,untested
+MVP-04,Exportação de plano semanal,40,1,0.9,2,2,120,validated
+MVP-05,Integração com calendário,100,3,0.4,13,16,320,untested

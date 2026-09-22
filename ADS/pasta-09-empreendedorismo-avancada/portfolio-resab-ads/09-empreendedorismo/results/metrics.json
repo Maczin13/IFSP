@@ -1,0 +1,85 @@
+{
+  "ranked": [
+    {
+      "id": "MVP-01",
+      "title": "Agenda adaptativa de estudos",
+      "reach": 120.0,
+      "impact": 3.0,
+      "confidence": 0.8,
+      "effort": 5.0,
+      "cost_hours": 6.0,
+      "expected_value": 420.0,
+      "status": "testing",
+      "rice": 57.6,
+      "wsfj": 1.2,
+      "roi_time": 70.0
+    },
+    {
+      "id": "MVP-02",
+      "title": "Lembrete de revisão espaçada",
+      "reach": 80.0,
+      "impact": 2.0,
+      "confidence": 0.7,
+      "effort": 3.0,
+      "cost_hours": 4.0,
+      "expected_value": 180.0,
+      "status": "validated",
+      "rice": 37.33,
+      "wsfj": 1.33,
+      "roi_time": 45.0
+    },
+    {
+      "id": "MVP-04",
+      "title": "Exportação de plano semanal",
+      "reach": 40.0,
+      "impact": 1.0,
+      "confidence": 0.9,
+      "effort": 2.0,
+      "cost_hours": 2.0,
+      "expected_value": 120.0,
+      "status": "validated",
+      "rice": 18.0,
+      "wsfj": 1.0,
+      "roi_time": 60.0
+    },
+    {
+      "id": "MVP-05",
+      "title": "Integração com calendário",
+      "reach": 100.0,
+      "impact": 3.0,
+      "confidence": 0.4,
+      "effort": 13.0,
+      "cost_hours": 16.0,
+      "expected_value": 320.0,
+      "status": "untested",
+      "rice": 9.23,
+      "wsfj": 0.46,
+      "roi_time": 20.0
+    },
+    {
+      "id": "MVP-03",
+      "title": "Dashboard de progresso",
+      "reach": 60.0,
+      "impact": 2.0,
+      "confidence": 0.5,
+      "effort": 8.0,
+      "cost_hours": 10.0,
+      "expected_value": 240.0,
+      "status": "untested",
+      "rice": 7.5,
+      "wsfj": 0.5,
+      "roi_time": 24.0
+    }
+  ],
+  "portfolio": [
+    "MVP-01",
+    "MVP-02"
+  ],
+  "hours_used": 10.0,
+  "traction": {
+    "total_initiatives": 5,
+    "validated_hypotheses": 2,
+    "testing_hypotheses": 1,
+    "validation_rate": 0.4
+  }
+}
