@@ -1,0 +1,14 @@
+sequenceDiagram
+ participant C as Cliente/TestClient
+ participant A as FastAPI ASGI
+ participant P as Pydantic
+ participant R as Repository
+ C->>A: POST /items JSON
+ A->>P: validar ItemCreate
+ P-->>A: modelo válido ou 422
+ A->>R: criar item
+ R-->>A: Item
+ A-->>C: 201 Created JSON
+ C->>A: GET/DELETE /items/id
+ A->>R: consultar/remover
+ A-->>C: 200, 204 ou 404

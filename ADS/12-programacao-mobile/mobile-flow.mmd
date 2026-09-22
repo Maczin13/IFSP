@@ -1,0 +1,9 @@
+flowchart LR
+UI[UI / intenção] --> SH[StateHolder]
+SH --> R[Repository]
+R --> DB[(LocalStore SQLite)]
+R --> O[Outbox persistente]
+O --> W[SyncService / Worker]
+W -->|ACK| Remote[API remota]
+W -->|falha| O
+DB --> SH
