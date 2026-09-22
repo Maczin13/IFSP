@@ -1,0 +1,7 @@
+id,title,points,status,created_at,started_at,done_at
+US-101,Login com autenticação segura,5,Done,2026-09-01,2026-09-02,2026-09-05
+US-102,API de tarefas com filtros,8,Done,2026-09-02,2026-09-04,2026-09-10
+US-103,Formulário acessível,3,In Progress,2026-09-05,2026-09-11,
+US-104,Observabilidade de erros,5,Todo,2026-09-07,,
+US-105,Exportação de relatório,8,Done,2026-09-08,2026-09-12,2026-09-18
+US-106,Teste de carga inicial,5,In Progress,2026-09-10,2026-09-15,

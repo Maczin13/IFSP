@@ -1,0 +1,42 @@
+[
+  {
+    "sensor_id": "temp-01",
+    "previous": "OFF",
+    "state": "OFF",
+    "reason": "within_hysteresis",
+    "temperature_c": 24.0,
+    "timestamp": "2026-09-21T10:00:00+00:00"
+  },
+  {
+    "sensor_id": "temp-01",
+    "previous": "OFF",
+    "state": "ON",
+    "reason": "above_turn_on_threshold",
+    "temperature_c": 31.0,
+    "timestamp": "2026-09-21T10:00:01+00:00"
+  },
+  {
+    "sensor_id": "temp-01",
+    "previous": "ON",
+    "state": "ON",
+    "reason": "within_hysteresis",
+    "temperature_c": 29.0,
+    "timestamp": "2026-09-21T10:00:02+00:00"
+  },
+  {
+    "sensor_id": "temp-01",
+    "previous": "ON",
+    "state": "OFF",
+    "reason": "below_turn_off_threshold",
+    "temperature_c": 27.0,
+    "timestamp": "2026-09-21T10:00:03+00:00"
+  },
+  {
+    "sensor_id": "temp-01",
+    "previous": "OFF",
+    "state": "SAFE",
+    "reason": "invalid_reading",
+    "temperature_c": null,
+    "timestamp": "2026-09-21T10:00:04+00:00"
+  }
+]

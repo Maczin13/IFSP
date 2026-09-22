@@ -1,0 +1,1 @@
+{"tasks":[{"id":"A","duration":3,"deps":[]},{"id":"B","duration":5,"deps":["A"]},{"id":"C","duration":4,"deps":["A"]},{"id":"D","duration":2,"deps":["B","C"]}],"evm":{"pv":80,"ev":72,"ac":90,"bac":120}}

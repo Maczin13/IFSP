@@ -1,0 +1,44 @@
+{
+  "metrics": {
+    "total_items": 6,
+    "by_status": {
+      "Todo": 1,
+      "In Progress": 2,
+      "Done": 3
+    },
+    "completed_points": 21,
+    "average_lead_time_days": 7.33,
+    "average_cycle_time_days": 5.0,
+    "wip_limit": 3
+  },
+  "velocity": 21,
+  "done": [
+    {
+      "id": "US-101",
+      "title": "Login com autenticação segura",
+      "points": 5,
+      "status": "Done",
+      "created_at": "2026-09-01",
+      "started_at": "2026-09-02",
+      "done_at": "2026-09-05"
+    },
+    {
+      "id": "US-102",
+      "title": "API de tarefas com filtros",
+      "points": 8,
+      "status": "Done",
+      "created_at": "2026-09-02",
+      "started_at": "2026-09-04",
+      "done_at": "2026-09-10"
+    },
+    {
+      "id": "US-105",
+      "title": "Exportação de relatório",
+      "points": 8,
+      "status": "Done",
+      "created_at": "2026-09-08",
+      "started_at": "2026-09-12",
+      "done_at": "2026-09-18"
+    }
+  ]
+}

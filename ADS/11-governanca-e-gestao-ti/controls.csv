@@ -1,0 +1,6 @@
+id,objective,framework,owner,evidence,status,effectiveness
+C-EDM01,Governance framework design,COBIT-EDM,Comitê de governança,termo-de-governanca.md,implemented,4
+C-EDM03,Risk optimization,COBIT-EDM,Gestor de riscos,risk-register.csv,partial,2
+C-APO09,Service agreements,COBIT-APO,Gestor de serviços,service-catalog.md,implemented,3
+C-ITIL01,Incident management,ITIL4,Service desk,incident-policy.md,partial,2
+C-ITIL02,Change enablement,ITIL4,Change authority,,missing,0

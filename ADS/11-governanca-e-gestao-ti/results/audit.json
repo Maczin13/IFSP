@@ -1,0 +1,71 @@
+{
+  "summary": {
+    "total_controls": 5,
+    "passed": 2,
+    "failed": 3,
+    "pass_rate": 0.4,
+    "maturity_level_0_to_5": 2.8,
+    "by_framework": {
+      "COBIT-APO": 1,
+      "COBIT-EDM": 2,
+      "ITIL4": 2
+    }
+  },
+  "controls": [
+    {
+      "id": "C-EDM01",
+      "objective": "Governance framework design",
+      "framework": "COBIT-EDM",
+      "owner": "Comitê de governança",
+      "evidence": "termo-de-governanca.md",
+      "status": "implemented",
+      "effectiveness": 4,
+      "result": "PASS",
+      "maturity": 5
+    },
+    {
+      "id": "C-EDM03",
+      "objective": "Risk optimization",
+      "framework": "COBIT-EDM",
+      "owner": "Gestor de riscos",
+      "evidence": "risk-register.csv",
+      "status": "partial",
+      "effectiveness": 2,
+      "result": "FAIL",
+      "maturity": 2
+    },
+    {
+      "id": "C-APO09",
+      "objective": "Service agreements",
+      "framework": "COBIT-APO",
+      "owner": "Gestor de serviços",
+      "evidence": "service-catalog.md",
+      "status": "implemented",
+      "effectiveness": 3,
+      "result": "PASS",
+      "maturity": 5
+    },
+    {
+      "id": "C-ITIL01",
+      "objective": "Incident management",
+      "framework": "ITIL4",
+      "owner": "Service desk",
+      "evidence": "incident-policy.md",
+      "status": "partial",
+      "effectiveness": 2,
+      "result": "FAIL",
+      "maturity": 2
+    },
+    {
+      "id": "C-ITIL02",
+      "objective": "Change enablement",
+      "framework": "ITIL4",
+      "owner": "Change authority",
+      "evidence": "",
+      "status": "missing",
+      "effectiveness": 0,
+      "result": "FAIL",
+      "maturity": 0
+    }
+  ]
+}

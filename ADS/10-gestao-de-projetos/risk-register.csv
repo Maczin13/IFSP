@@ -1,0 +1,5 @@
+id,description,probability,impact,response,trigger
+R-01,Estimativa de duração subestimada,medium,high,PERT e revisão de estimativas,atividade ultrapassa baseline
+R-02,Dependência cíclica ou ausente,low,high,validação automática do grafo,CPM rejeita o plano
+R-03,Custo real acima do valor agregado,high,high,analisar CPI e plano de recuperação,CPI abaixo de 1
+R-04,Mudança de escopo sem baseline,high,medium,controlo integrado de mudanças,novo requisito não aprovado

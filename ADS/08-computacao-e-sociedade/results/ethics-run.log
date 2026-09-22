@@ -1,0 +1,1 @@
+{"text": "Contato [REDACTED_EMAIL] CPF [REDACTED_CPF]; telefone [REDACTED_PHONE]; há risco de suicídio.", "pii_types": ["cpf", "email", "phone"], "risk_flags": ["self_harm"], "route": "human_review", "disclaimer": "Este laboratório não realiza diagnóstico, não substitui atendimento profissional e não deve orientar decisões de alto impacto."}
