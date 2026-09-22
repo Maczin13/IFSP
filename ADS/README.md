@@ -1,6 +1,6 @@
 # Repertório Técnico — Tecnologia em Análise e Desenvolvimento de Sistemas
 
-Portfólio organizado por competências do curso de ADS. O repositório reúne implementações mínimas, documentação técnica, modelos de análise, testes, decisões de projeto, roteiros de demonstração e perguntas de defesa.
+Portfólio organizado por competências do curso de ADS. O repositório reúne implementações acadêmicas reproduzíveis, com escopo delimitado, testes, documentação técnica e análise de limitações, documentação técnica, modelos de análise, testes, decisões de projeto, roteiros de demonstração e perguntas de defesa.
 
 ## Navegação
 - [Pesquisa acadêmica](02-inteligencia-artificial/research-notes.md)
